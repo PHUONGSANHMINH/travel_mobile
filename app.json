@@ -38,8 +38,13 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "@react-native-community/datetimepicker"
     ],
+    "android": {
+      "package": "com.travelmobile",
+      "versionCode": 1
+    },
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
