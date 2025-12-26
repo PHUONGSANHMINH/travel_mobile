@@ -1,7 +1,7 @@
 import { HotelRecommendation, RecommendationResponse } from '@/types/recommendationTypes';
 import tokenStorage from './tokenStorage';
 
-const RECOMMENDER_API_BASE = 'https://recommender-trip-go-api.onrender.com/api';
+const RECOMMENDER_API_BASE = 'https://supposed-elianore-tripgp-326141f9.koyeb.app/api';
 
 export const recommendationService = {
     /**
